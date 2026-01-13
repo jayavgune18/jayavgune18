@@ -1,4 +1,7 @@
 ## Hi there 👋
+  <h1 align="center">
+    I'm JAY AVGUNE
+ </h1>
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2800&color=0A66C2&center=true&vCenter=true&lines=Frontend+Developer;UI%2FUX+Enthusiast;React+Learner;Building+Clean+Web+Experiences" alt="Typing SVG">
 </p>
