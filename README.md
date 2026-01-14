@@ -1,4 +1,3 @@
-## Hi there 👋
   <h1 align="center">
     I'm JAY AVGUNE
  </h1>
@@ -7,16 +6,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=007BFF&center=true&vCenter=true&lines=Web+Developer;JavaScript+Enthusiast;React+Developer;Passionate+About+Clean+UI" alt="Typing SVG">
 </p>
 
+---
+
 ### About Me
 I'm a passionate Frontend Developer with a strong focus on creating responsive, visually appealing, and user-friendly web interfaces. My journey in tech began with the fundamentals of C and evolved into modern frontend technologies, allowing me to build clean, interactive, and dynamic web experiences.
 
 💻 Working on frontend-focused web applications
-
 🚀 Exploring modern frontend tools and best practices
-
 🧩 Interested in collaboration on innovative frontend ideas
-
 🎯 Passionate about clean UI and great user experience
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -36,6 +36,7 @@ I'm a passionate Frontend Developer with a strong focus on creating responsive, 
 
 - **Other Tools:**  
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4.svg?style=flat&logo=visual-studio-code&logoColor=white)
+  
   
 
 
