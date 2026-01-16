@@ -11,10 +11,10 @@
 ### About Me
 I'm a passionate Frontend Developer with a strong focus on creating responsive, visually appealing, and user-friendly web interfaces. My journey in tech began with the fundamentals of C and evolved into modern frontend technologies, allowing me to build clean, interactive, and dynamic web experiences.
 
-💻 Working on frontend-focused web applications.
-🚀 Exploring modern frontend tools and best practices.
-🧩 Interested in collaboration on innovative frontend ideas.
-🎯 Passionate about clean UI and great user experience.
+-💻 Working on frontend-focused web applications.
+-🚀 Exploring modern frontend tools and best practices.
+-🧩 Interested in collaboration on innovative frontend ideas.
+-🎯 Passionate about clean UI and great user experience.
 
 ---
 
@@ -30,12 +30,26 @@ I'm a passionate Frontend Developer with a strong focus on creating responsive, 
   ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black) 
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 
+- **Backend Development:**  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-404D59.svg?style=flat&logo=express&logoColor=white)
+
+- **Database Management:**  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+
+
 - **Version Control:**  
   ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)
 
 - **Other Tools:**  
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4.svg?style=flat&logo=visual-studio-code&logoColor=white)
+
+  ### 🚀 Notable Projects
+
+- **[Music Academy Website ](https://music-academy-website.netlify.app/)**  
+  Interactive and responsive website with clean design and smooth user experience.
   
   
 
