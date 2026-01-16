@@ -11,10 +11,11 @@
 ### About Me
 I'm a passionate Frontend Developer with a strong focus on creating responsive, visually appealing, and user-friendly web interfaces. My journey in tech began with the fundamentals of C and evolved into modern frontend technologies, allowing me to build clean, interactive, and dynamic web experiences.
 
--💻 Working on frontend-focused web applications.
--🚀 Exploring modern frontend tools and best practices.
--🧩 Interested in collaboration on innovative frontend ideas.
--🎯 Passionate about clean UI and great user experience.
+- 💻 Working on frontend-focused web applications.
+- 🚀 Exploring modern frontend tools and best practices.
+- 🧩 Interested in collaboration on innovative frontend ideas.
+- 🎯 Passionate about clean UI and great user experience.
+
 
 ---
 
@@ -48,8 +49,9 @@ I'm a passionate Frontend Developer with a strong focus on creating responsive, 
 
   ### 🚀 Notable Projects
 
-- **[Music Academy Website ](https://music-academy-website.netlify.app/)**  
-  Interactive and responsive website with clean design and smooth user experience.
+- **[Music Academy Website](https://music-academy-website.netlify.app/)**  
+  A fully responsive and interactive website designed for a music academy, featuring a modern UI, smooth animations, and an intuitive user experience. Built with a strong focus on performance, accessibility, and visual appeal to engage users across all devices.
+
   
   
 
