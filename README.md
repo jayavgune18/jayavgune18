@@ -15,22 +15,6 @@ I'm a passionate Frontend Developer with a strong focus on creating responsive, 
 - 🚀 Exploring modern frontend tools and best practices.
 - 🧩 Interested in collaboration on innovative frontend ideas.
 - 🎯 Passionate about clean UI and great user experience..
-
----
-
-### 📈 GitHub Highlights
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayavgune18&layout=compact&theme=radical" alt="Top Languages"> 
-</div> 
-
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=jayavgune18&show_icons=true&theme=radical" alt="Jay Avgune's GitHub Stats"> 
-</div> 
-
-<div align="center"> 
-  <img src="https://streak-stats.demolab.com/?user=jayavgune18&theme=dark&hide_border=true" alt="GitHub Streak">
-</div>
-
 ---
 
 ### 🛠️ Tech Stack
@@ -61,13 +45,44 @@ I'm a passionate Frontend Developer with a strong focus on creating responsive, 
 - **Other Tools:**  
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
-  ---
 
-  ### 🚀 Notable Projects
+---
+
+### 📈 GitHub Highlights
+<div align="center"> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayavgune18&theme=tokyonight" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jayavgune18&theme=tokyonight" height="150"/> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jayavgune18&theme=tokyonight" height="150"/>
+</div>
+
+<br/> 
+
+<div align="center"> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jayavgune18&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jayavgune18&theme=tokyonight&utcOffset=5" height="150"/> 
+</div>
+---
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayavgune18&theme=github-compact&hide_border=true" alt="Contribution Graph">
+</p>
+
+---
+
+### 🚀 Notable Projects
 
 - **[Music Academy Website](https://music-academy-website.netlify.app/)**  
   A fully responsive and interactive website designed for a music academy, featuring a modern UI, smooth animations, and an intuitive user experience. Built with a strong focus on performance, accessibility, and visual appeal to engage users across all devices.
 
+- **[note app easy ](https://notes-app-easy.netlify.app/)**
+  A minimal and responsive notes app that lets users quickly create, view, and manage notes. Designed for smooth interactions and a distraction-free experience across all devices.
+ 
 ---
 
 ### 🔥 About My Tech Path
