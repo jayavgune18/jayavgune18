@@ -31,6 +31,8 @@ I'm a passionate Frontend Developer with a strong focus on creating responsive, 
   <img src="https://streak-stats.demolab.com/?user=jayavgune18&theme=dark&hide_border=true" alt="GitHub Streak">
 </div>
 
+---
+
 ### 🛠️ Tech Stack
 
 - **Programming Languages:**  
@@ -59,12 +61,14 @@ I'm a passionate Frontend Developer with a strong focus on creating responsive, 
 - **Other Tools:**  
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
+  ---
+
   ### 🚀 Notable Projects
 
 - **[Music Academy Website](https://music-academy-website.netlify.app/)**  
   A fully responsive and interactive website designed for a music academy, featuring a modern UI, smooth animations, and an intuitive user experience. Built with a strong focus on performance, accessibility, and visual appeal to engage users across all devices.
 
-  ---
+---
 
 ### 🔥 About My Tech Path
 <details>
