@@ -1,5 +1,5 @@
   <h1 align="center">
-    I'm JAY AVGUNE
+    I'm Jay Avgune
  </h1>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ---
 
-### About Me
+###🧑‍💻 About Me
 I'm a passionate Frontend Developer with a strong focus on creating responsive, visually appealing, and user-friendly web interfaces. My journey in tech began with the fundamentals of C and evolved into modern frontend technologies, allowing me to build clean, interactive, and dynamic web experiences.
 
 - 💻 Working on frontend-focused web applications.
@@ -16,8 +16,20 @@ I'm a passionate Frontend Developer with a strong focus on creating responsive, 
 - 🧩 Interested in collaboration on innovative frontend ideas.
 - 🎯 Passionate about clean UI and great user experience..
 
-
 ---
+
+### 📈 GitHub Highlights
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayavgune18&layout=compact&theme=radical" alt="Top Languages"> 
+</div> 
+
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=jayavgune18&show_icons=true&theme=radical" alt="Jay Avgune's GitHub Stats"> 
+</div> 
+
+<div align="center"> 
+  <img src="https://streak-stats.demolab.com/?user=jayavgune18&theme=dark&hide_border=true" alt="GitHub Streak">
+</div>
 
 ### 🛠️ Tech Stack
 
@@ -51,6 +63,32 @@ I'm a passionate Frontend Developer with a strong focus on creating responsive, 
 
 - **[Music Academy Website](https://music-academy-website.netlify.app/)**  
   A fully responsive and interactive website designed for a music academy, featuring a modern UI, smooth animations, and an intuitive user experience. Built with a strong focus on performance, accessibility, and visual appeal to engage users across all devices.
+
+  ---
+
+### 🔥 About My Tech Path
+<details>
+  <summary>Tap to explore</summary>
+  <p> I began my programming journey by understanding how computers think, working with C for logic building and moving on to object-oriented concepts using Java and C++. Today, I focus on developing modern web      applications with clean structure, smooth interactions, and performance in mind using React and frontend technologies. </p> 
+</details>
+
+---
+
+### 🌟 Quick Highlights
+<details>
+  <summary>Know more</summary> 
+  <ul> <li>Enjoy turning ideas into functional web experiences.</li>
+    <li>Love debugging — fixing errors feels like solving puzzles.</li> 
+    <li>Constantly improving skills through projects and practice.</li> 
+  </ul> 
+</details>
+
+---
+
+### 🔗 Find Me Online
+- [LinkedIn](https://www.linkedin.com/in/jay-avgune-1316b323a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Instagram](https://www.instagram.com/jay.avgune?igsh=ejF2YW44bXNrZ3Ry)
+- [Netlify](https://app.netlify.com/teams/jayavgune18/projects)
 
   
   
