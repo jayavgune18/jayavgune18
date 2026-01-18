@@ -14,7 +14,7 @@ I'm a passionate Frontend Developer with a strong focus on creating responsive, 
 - 💻 Working on frontend-focused web applications.
 - 🚀 Exploring modern frontend tools and best practices.
 - 🧩 Interested in collaboration on innovative frontend ideas.
-- 🎯 Passionate about clean UI and great user experience..
+- 🎯 Passionate about clean UI and great user experience.
 ---
 
 ### 🛠️ Tech Stack
