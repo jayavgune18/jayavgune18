@@ -76,13 +76,18 @@ I'm a passionate Frontend Developer with a strong focus on creating responsive, 
 ---
 
 ### 🚀 Notable Projects
-
 - **[Music Academy Website](https://music-academy-website.netlify.app/)**  
   A fully responsive and interactive website designed for a music academy, featuring a modern UI, smooth animations, and an intuitive user experience. Built with a strong focus on performance, accessibility, and visual appeal to engage users across all devices.
 
-- **[note app easy ](https://notes-app-easy.netlify.app/)**
-  A minimal and responsive notes app that lets users quickly create, view, and manage notes. Designed for smooth interactions and a distraction-free experience across all devices.
- 
+- **[Portfolio Website](https://jay-avgune.netlify.app/)**  
+    A modern and responsive personal portfolio showcasing my skills, projects, and experience as a developer. Designed with smooth animations, clean UI, and intuitive navigation to create a strong personal brand. Optimized for performance and accessibility across all devices.
+  
+- **[GitHub Profile Detective](https://githubprofile-detective.netlify.app/)**  
+ A React-based web application that allows users to search and explore GitHub profiles in real time using the GitHub REST API. Displays user details such as repositories, followers, and profile information with a clean and responsive UI. Built with a focus on API integration, error handling, and user experience.
+
+- **[Note App  ](https://notes-app-easy.netlify.app/)**  
+   A minimal and responsive notes app that lets users quickly create, view, and manage notes. Designed for smooth interactions and a distraction-free experience across all devices.
+
 ---
 
 ### 🔥 About My Tech Path
