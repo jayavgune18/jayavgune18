@@ -20,7 +20,8 @@ I'm a passionate Frontend Developer with a strong focus on creating responsive, 
 ### 🛠️ Tech Stack
 
 - **Programming Languages:**  
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
+ ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+ ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
 
 - **Frontend Development:**  
   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
