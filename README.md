@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=007BFF&center=true&vCenter=true&lines=Web+Developer;JavaScript+Enthusiast;React+Developer;Passionate+About+Clean+UI" alt="Typing SVG">
 </p>
-
 ---
 
 ###🧑‍💻 About Me
