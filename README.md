@@ -7,7 +7,7 @@
 </p>
 ---
 
-###🧑‍💻 About Me
+ ###🧑‍💻 About Me
 I'm a passionate Frontend Developer with a strong focus on creating responsive, visually appealing, and user-friendly web interfaces. My journey in tech began with the fundamentals of C and evolved into modern frontend technologies, allowing me to build clean, interactive, and dynamic web experiences.
 
 - 💻 Working on frontend-focused web applications.
