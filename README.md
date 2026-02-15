@@ -1,6 +1,6 @@
   <h1 align="center">
     I'm Jay Avgune
- </h1>
+ </h1> 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=007BFF&center=true&vCenter=true&lines=Web+Developer;JavaScript+Enthusiast;React+Developer;Passionate+About+Clean+UI" alt="Typing SVG">
