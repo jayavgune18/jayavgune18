@@ -47,9 +47,11 @@
 ![OS](https://img.shields.io/badge/Operating_System-007ACC.svg?style=flat)
 ![CN](https://img.shields.io/badge/Computer_Networks-00599C.svg?style=flat)
 
-#### AI & Development Tools
-![AI](https://img.shields.io/badge/AI_Applications-FF4088.svg?style=flat)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2.svg?style=flat)
+#### AI Tools & Version Control
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C.svg?style=flat&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717.svg?style=flat&logo=github&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4.svg?style=flat&logo=google&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2.svg?style=flat) 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)
 
@@ -57,7 +59,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=flat&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=flat&logo=render&logoColor=white)
 
 
 ---
