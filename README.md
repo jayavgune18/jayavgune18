@@ -1,136 +1,150 @@
-  <h1 align="center">
-    I'm Jay Avgune
- </h1> 
- 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=007BFF&center=true&vCenter=true&lines=Web+Developer;JavaScript+Enthusiast;React+Developer;Passionate+About+Clean+UI" alt="Typing SVG">
-</p>
+<div align="center">
+
+# Jay Avgune
+
+### Full Stack Developer · MERN Stack · Java · REST APIs
+
+Building scalable web applications — from database to UI
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-jay--avgune.netlify.app-0A66C2?style=flat&logo=netlify&logoColor=white)](https://jay-avgune.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jay--avgune-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-avgune-1316b323a)
+[![Email](https://img.shields.io/badge/Email-jayavgune18@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jayavgune18@gmail.com)
+
+
+</div>
 
 ---
 
- ### 🧑‍💻 About Me
- 
- I'm a passionate Frontend Developer with a strong focus on creating responsive, visually appealing, and user-friendly web interfaces. My journey in tech began with the fundamentals of C and evolved into modern frontend technologies, allowing me to build clean, interactive, and dynamic web experiences.
+## About
 
-- 💻 Working on frontend-focused web applications.
-- 🚀 Exploring modern frontend tools and best practices. 
-- 🧩 Interested in collaboration on innovative frontend ideas.
-- 🎯 Passionate about clean UI and great user experience.
+Final-year Computer Science student targeting **Software Engineer** and **Full Stack Developer** roles. I build end-to-end web applications using the MERN stack — React on the front, Node/Express on the back, MongoDB as the store — and write Java for algorithmic problem-solving.
+
+Current focus: adding authentication, REST APIs, and deployment to every project so each one is a working product, not just a demo.
+
+- 🎓 B.E. Computer Science — final year
+- 🛠 Currently building: full-stack projects with JWT auth and deployed APIs
+- 🔍 Open to: SDE roles, web development internships, full-stack positions
+
 ---
-### 🛠️ Tech Stack
 
-#### Programming Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
+## Tech Stack
+
+**Languages**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 
-#### Frontend Development
+**Frontend**
+
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 
-#### Backend Development
+**Backend**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59.svg?style=flat&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B.svg?style=flat)
 
-#### Database Management
+**Database**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 
-#### Data Structures & CS Fundamentals
-![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-FF6F00.svg?style=flat)
-![OOP](https://img.shields.io/badge/OOPs-4CAF50.svg?style=flat)
-![DBMS](https://img.shields.io/badge/DBMS-336791.svg?style=flat)
-![OS](https://img.shields.io/badge/Operating_System-007ACC.svg?style=flat)
-![CN](https://img.shields.io/badge/Computer_Networks-00599C.svg?style=flat)
+**Tools**
 
-#### AI Tools & Version Control
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C.svg?style=flat&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717.svg?style=flat&logo=github&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4.svg?style=flat&logo=google&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2.svg?style=flat) 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)
-
-#### Development & Deployment Tools
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=flat&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=flat&logo=render&logoColor=white)
 
+**CS Fundamentals**
+
+![DSA](https://img.shields.io/badge/DSA_(Java)-FF6F00.svg?style=flat)
+![OOP](https://img.shields.io/badge/OOP-4CAF50.svg?style=flat)
+![DBMS](https://img.shields.io/badge/DBMS-336791.svg?style=flat)
+![OS](https://img.shields.io/badge/Operating_Systems-007ACC.svg?style=flat)
+![CN](https://img.shields.io/badge/Computer_Networks-00599C.svg?style=flat)
 
 ---
 
-### 📈 GitHub Highlights
-<div align="center"> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayavgune18&theme=tokyonight" />
+## Featured Projects
+
+### 🔍 GitHub Profile Detective
+**[Live Demo](https://githubprofile-detective.netlify.app/) · [Source Code](https://github.com/jayavgune18)**
+
+React app that queries the GitHub REST API to surface profile data — repositories, followers, contribution activity — in a clean, searchable UI.
+
+**Stack:** React · GitHub REST API · Tailwind CSS  
+**Key work:** API integration, error handling for invalid usernames, responsive card layout
+
+---
+
+### 🎵 Music Academy Website
+**[Live Demo](https://music-academy-website.netlify.app/) · [Source Code](https://github.com/jayavgune18)**
+
+Fully responsive multi-section landing page with smooth scroll animations and mobile-first layout.
+
+**Stack:** React · Tailwind CSS  
+**Key work:** Component architecture, accessibility, cross-device layout
+
+---
+
+### 🗒 Notes App
+**[Live Demo](https://notes-app-easy.netlify.app/) · [Source Code](https://github.com/jayavgune18)**
+
+Minimal CRUD notes application with local persistence, focused on clean state management and distraction-free UX.
+
+**Stack:** React · localStorage  
+**Key work:** State management, CRUD operations, clean component design
+
+---
+
+### 🧑‍💻 Developer Portfolio
+**[Live Demo](https://jay-avgune.netlify.app/) · [Source Code](https://github.com/jayavgune18)**
+
+Personal portfolio with animated sections and recruiter-focused layout. Optimized for performance and accessibility.
+
+**Stack:** React · Tailwind CSS  
+**Key work:** Animation choreography, performance optimization, responsive design
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayavgune18&theme=tokyonight" alt="GitHub profile summary" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jayavgune18&theme=tokyonight" height="150"/> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jayavgune18&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jayavgune18&theme=tokyonight" height="150" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jayavgune18&theme=tokyonight" height="150" alt="Most used languages" />
 </div>
 
-<br/> 
+<br/>
 
-<div align="center"> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jayavgune18&theme=tokyonight" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jayavgune18&theme=tokyonight&utcOffset=5" height="150"/> 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayavgune18&theme=github-compact&hide_border=true" alt="Contribution graph" />
 </div>
----
-
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayavgune18&theme=github-compact&hide_border=true" alt="Contribution Graph">
-</p>
 
 ---
 
-### 🚀 Notable Projects
-- **[Music Academy Website](https://music-academy-website.netlify.app/)**  
-  A fully responsive and interactive website designed for a music academy, featuring a modern UI, smooth animations, and an intuitive user experience. Built with a strong focus on performance, accessibility, and visual appeal to engage users across all devices.
+## Let's Connect
 
-- **[Portfolio Website](https://jay-avgune.netlify.app/)**  
-    A modern and responsive personal portfolio showcasing my skills, projects, and experience as a developer. Designed with smooth animations, clean UI, and intuitive navigation to create a strong personal brand. Optimized for performance and accessibility across all devices.
-  
-- **[GitHub Profile Detective](https://githubprofile-detective.netlify.app/)**  
- A React-based web application that allows users to search and explore GitHub profiles in real time using the GitHub REST API. Displays user details such as repositories, followers, and profile information with a clean and responsive UI. Built with a focus on API integration, error handling, and user experience.
-
-- **[Note App  ](https://notes-app-easy.netlify.app/)**  
-   A minimal and responsive notes app that lets users quickly create, view, and manage notes. Designed for smooth interactions and a distraction-free experience across all devices.
+| | |
+|---|---|
+| 🌐 Portfolio | [jay-avgune.netlify.app](https://jay-avgune.netlify.app/) |
+| 💼 LinkedIn | [linkedin.com/in/jay-avgune-1316b323a](https://www.linkedin.com/in/jay-avgune-1316b323a) |
+| 📧 Email | [jayavgune18@gmail.com](mailto:jayavgune18@gmail.com) |
 
 ---
 
-### 🔥 About My Tech Path
-<details>
-  <summary>Tap to explore</summary>
-  <p> I began my programming journey by understanding how computers think, working with C for logic building and moving on to object-oriented concepts using Java and C++. Today, I focus on developing modern web      applications with clean structure, smooth interactions, and performance in mind using React and frontend technologies. </p> 
-</details>
-
----
-
-### 🌟 Quick Highlights
-<details>
-  <summary>Know more</summary> 
-  <ul> <li>Enjoy turning ideas into functional web experiences.</li>
-    <li>Love debugging — fixing errors feels like solving puzzles.</li> 
-    <li>Constantly improving skills through projects and practice.</li> 
-  </ul> 
-</details>
-
----
-
-### 🔗 Find Me Online
-- [LinkedIn](https://www.linkedin.com/in/jay-avgune-1316b323a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [Instagram](https://www.instagram.com/jay.avgune?igsh=ejF2YW44bXNrZ3Ry)
-- [Netlify](https://app.netlify.com/teams/jayavgune18/projects)
-
-  
-  
-
-
+<div align="center">
+  <sub>Software Engineer · Full Stack Developer · MERN Stack Developer · React Developer · Node.js Developer · JavaScript Developer · Web Developer · Java Developer · MongoDB · REST APIs · Data Structures · Algorithms · Fresher · Entry-Level SDE · Maharashtra · India</sub>
+</div>
