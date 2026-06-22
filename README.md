@@ -83,41 +83,41 @@ Current focus: adding authentication, REST APIs, and deployment pipelines to eve
 ---
 
 ## Featured Projects
-
+ 
+### 🤖 AI Reconciliation System
+**[Live Demo](https://ai-based-reconciliation-system-frontend.onrender.com)** &nbsp;·&nbsp; **[Source Code](https://github.com/jayavgune18/Ai-Based-reconciliation-system.git)**
+ 
+AI-powered financial reconciliation platform that **automatically matches transactions** across multiple data sources, detects discrepancies using **intelligent matching algorithms**, and generates structured reconciliation reports — reducing manual finance ops effort significantly.
+ 
+| | |
+|---|---|
+| **Stack** | React · Node.js · Express.js · MongoDB ·  Socket.IO  ·  Multer ·  PDFKit · XLSX · CSV-Parser · Fuse.js · JWT Authorization · bcrypt password |
+| **Key work** | Automated transaction matching · anomaly detection · reconciliation reporting · analytics dashboard · financial systems · data accuracy |
+ 
+---
+ 
+### 💰 Expense Tracker System
+**[Live Demo](#)** &nbsp;·&nbsp; **[Source Code](https://github.com/jayavgune18/AI-Expense-Receipt-Scanner.git)**
+ 
+Full-stack expense management application with **OCR-powered receipt scanning** that auto-extracts merchant, amount, and date from uploaded receipts. Features **JWT authentication**, duplicate detection, email notifications, interactive analytics dashboard, and **Docker Compose deployment** with nginx reverse proxy.
+ 
+| | |
+|---|---|
+| **Stack** | React · Vite · Node.js · Express.js · MongoDB ·  Mongoose ODM · Cloudinary · Docker · Chart.js · Tailwind CSS JWT· bcryptjs |
+| **Key work** | OCR / AI integration · JWT auth · Docker Compose · receipt extraction · duplicate detection · email notifications · data backups · nginx · responsive dashboard |
+ 
+---
+ 
 ### 🔍 GitHub Profile Detective
-**[Live Demo](https://githubprofile-detective.netlify.app/)** &nbsp;·&nbsp; **[Source Code](https://github.com/jayavgune18/github-profile-detective)**
-
-React app that queries the GitHub REST API to surface profile data — repositories, followers, contribution activity — in a clean, searchable UI.
-
+**[Live Demo](https://githubprofile-detective.netlify.app/)** &nbsp;·&nbsp; **[Source Code](https://github.com/jayavgune18/gitHub-Profile-Detective.git)**
+ 
+GitHub analytics platform that queries the **GitHub REST API in real time** to surface developer profiles, repository insights, contribution activity, and coding statistics. Handles **API rate limiting and invalid user states** gracefully with clean error feedback.
+ 
 | | |
 |---|---|
 | **Stack** | React · GitHub REST API · Tailwind CSS |
-| **Key work** | Real-time API integration · error handling for invalid/rate-limited users · responsive card layout |
-
----
-
-### 🎵 Music Academy Website
-**[Live Demo](https://music-academy-website.netlify.app/)** &nbsp;·&nbsp; **[Source Code](https://github.com/jayavgune18/music-academy)**
-
-Fully responsive multi-section landing page with smooth scroll animations and mobile-first layout.
-
-| | |
-|---|---|
-| **Stack** | React · Tailwind CSS |
-| **Key work** | Component architecture · accessibility · cross-device layout |
-
----
-
-### 🗒 Notes App
-**[Live Demo](https://notes-app-easy.netlify.app/)** &nbsp;·&nbsp; **[Source Code](https://github.com/jayavgune18/notes-app)**
-
-Minimal CRUD notes application with local persistence, focused on clean state management and distraction-free UX.
-
-| | |
-|---|---|
-| **Stack** | React · localStorage |
-| **Key work** | CRUD operations · state management · clean component design |
-
+| **Key work** | Real-time API integration · profile analytics · repository insights · rate limit handling · error handling · responsive design · Netlify deployment |
+ 
 ---
 
 ### 🧑‍💻 Developer Portfolio
