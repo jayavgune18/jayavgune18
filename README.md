@@ -36,7 +36,7 @@ Final-year Computer Science student who designs and ships **complete, production
 I build full systems end-to-end: database schema, REST API design, containerisation, and responsive UI — independently.
 
 ```
-📍  Bhiwandi, Maharashtra, India
+📍  Pune, Maharashtra, India
 🎓  B.E. Computer Science — Final Year
 💼  Targeting: Software Engineer · Full Stack Developer · MERN Stack Developer
 ⚡  Strength: Turning complex problems into clean, working software
