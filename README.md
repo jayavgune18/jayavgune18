@@ -231,7 +231,7 @@ I'm actively interviewing for **Software Engineer**, **Full Stack Developer**, a
 |---|---|
 | 🌐 &nbsp;**Portfolio** | [jay-avgune.netlify.app](https://jay-avgune.netlify.app/) |
 | 💼 &nbsp;**LinkedIn** | [linkedin.com/in/jay-avgune-1316b323a](https://www.linkedin.com/in/jay-avgune-1316b323a) |
-| 📧 &nbsp;**Email** | [jayavgune18@gmail.com](mailto:avgunejay@gmail.com) |
+| 📧 &nbsp;**Email** | [avgunejay@gmail.com](mailto:avgunejay@gmail.com) |
 | 🐙 &nbsp;**GitHub** | [@jayavgune18](https://github.com/jayavgune18) |
 
 </div>
