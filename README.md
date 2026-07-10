@@ -125,7 +125,7 @@ I build full systems end-to-end: database schema, REST API design, containerisat
 
 ## Featured Projects
 
-### 🤖 AI Reconciliation System
+### 🤖 ReconcileAI Pro
 > *Automates manual financial transaction matching across multi-format data sources*
 
 **[Live Demo](https://ai-based-reconciliation-system-frontend.onrender.com)** &nbsp;·&nbsp; **[Source Code](https://github.com/jayavgune18/Ai-Based-reconciliation-system)**
@@ -140,10 +140,10 @@ Financial teams spend hours reconciling transactions across CSV, XLSX, and PDF f
 
 ---
 
-### 💰 AI Expense Scanner
+### 💰 AI Expense Tracker
 > *OCR-powered receipt processing that eliminates manual expense data entry*
 
-**[Live Demo](#)** &nbsp;·&nbsp; **[Source Code](https://github.com/jayavgune18/AI-Expense-Receipt-Scanner)**
+**[Live Demo](https://ai-expense-receipt-scanner-frontend.onrender.com)** &nbsp;·&nbsp; **[Source Code](https://github.com/jayavgune18/AI-Expense-Receipt-Scanner)**
 
 Scans uploaded receipt images with **OCR/AI** to auto-extract merchant, amount, date, and category. Stores results in MongoDB, detects duplicates, sends email notifications, and visualises spend patterns in an interactive analytics dashboard — the entire stack containerised with **Docker Compose + nginx reverse proxy**.
 
