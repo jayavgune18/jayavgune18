@@ -48,16 +48,6 @@ I build full systems end-to-end: database schema, REST API design, payments, AI 
 
 ---
 
-## Experience
-
-**Full Stack Developer (MERN) — Maincrafts Technology** &nbsp;·&nbsp; *Feb 2026 – Aug 2026*
-- Engineered responsive interfaces for **3+ client projects** using React.js, HTML5, CSS3, and Tailwind CSS, cutting load time by **20%**
-- Built **5+ RESTful API endpoints** using Node.js and Express.js
-- Managed Git workflows for a **4-developer team**, cutting merge conflicts by **35%**
-- Delivered **2 responsive web apps** on schedule
-
----
-
 ## Tech Stack
 
 <table>
